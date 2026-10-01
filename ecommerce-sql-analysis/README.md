@@ -228,7 +228,7 @@ FROM orders;
 **Insights:**
 - Shows the total amount of revenue.
 
-<img src="img0.png" alt="Description" width="150">
+<img src="images/img0.png" alt="Description" width="150">
 
 ### 5.2 Top-Selling Products
 ```
@@ -245,7 +245,7 @@ ORDER BY total_revenue DESC;
 - Shows which products generate the most revenue and are popular.
 - Can recommend focusing marketing or inventory on top products.
   
-<img src="img1.png" alt="Description" width="400">
+<img src="images/img1.png" alt="Description" width="400">
  
 ### 5.3 Revenue by Country
 ```
@@ -262,7 +262,7 @@ ORDER BY total_revenue DESC;
 - Identifies top-performing markets.
 - Helps business decide where to expand or run promotions.
 
-<img src="img2.png" alt="Description" width="400">
+<img src="images/img2.png" alt="Description" width="400">
  
 ### 5.4 Monthly Sales Trend
 ```
@@ -279,7 +279,7 @@ ORDER BY month;
 - Shows seasonal trends or months with low sales.
 - Useful for planning promotions or inventory.
 
-<img src="img4.png" alt="Description" width="400">
+<img src="images/img4.png" alt="Description" width="400">
 
 ### 5.5 Average Order Value per Customer
 ```
@@ -296,7 +296,7 @@ ORDER BY avg_order_value DESC;
 - Identifies high-value customers.
 - Can prioritize these customers for loyalty programs or targeted marketing.
 
-<img src="img3.png" alt="Description" width="400">
+<img src="images/img3.png" alt="Description" width="400">
 
 ### 5.6 Repeat Customers
 ```
@@ -314,7 +314,7 @@ ORDER BY completed_orders DESC;
 - Identifies loyal customers.
 - Can help design retention strategies or reward programs.
 
-<img src="img5.png" alt="Description" width="400">
+<img src="images/img5.png" alt="Description" width="400">
 
 ### 5.7 Top Revenue Products by Category
 ```
@@ -331,7 +331,7 @@ ORDER BY p.category, revenue DESC;
 - Helps understand which categories are most profitable.
 - Supports decisions on stocking or promotions per category.
 
-<img src="img6.png" alt="Description" width="400">
+<img src="images/img6.png" alt="Description" width="400">
 
 ## 6. Insights + Business Recommendations
 
