@@ -7,7 +7,7 @@
 
 A full end-to-end machine learning project that predicts whether a telecom customer will churn, built with Python and deployed as a live interactive web application.
 
-**Streamlit Deploy:** https://datascienceportfolio-customer-churn-engine.streamlit.app/
+**Streamlit Deploy:** [https://datascienceportfolio-customer-churn-engine.streamlit.app/](https://data-science-portfolio-churn-model.streamlit.app/)
 
 ## Project Objective
 
