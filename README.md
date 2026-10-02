@@ -41,11 +41,12 @@ NLP classification, predictive modelling and data visualisation. [`other-project
 
 ## Skills demonstrated across this portfolio
 
+- **Languages:** Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, MySQL)
 - **Machine Learning:** classification, regression, feature engineering, threshold tuning, model evaluation
 - **NLP:** text classification, SentenceTransformers, topic modeling (BERTopic), fairness auditing
 - **Data Engineering:** ETL pipelines, data validation, relational database design
-- **BI & Visualization:** Tableau, Power BI (in progress), dashboarding
-- **Languages/Tools:** Python, SQL, Git, Streamlit, AWS
+- **BI & Visualization:** Tableau, Power BI, dashboarding
+- **Tools:** Git, Streamlit, AWS
 
 ---
 
