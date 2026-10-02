@@ -2,7 +2,7 @@
 <h3 align="center">Telco BMI Dataset</h3>
 
 <p align="center">
-  <img src="https://github.com/kovacikostanca/Data_Science_Portfolio/blob/main/churn-prediction/images/customer_churn.jpg" alt="Description" width="400">
+  <img src="images/customer_churn.jpg" alt="Description" width="400">
 </p>
 
 A full end-to-end machine learning project that predicts whether a telecom customer will churn, built with Python and deployed as a live interactive web application.
