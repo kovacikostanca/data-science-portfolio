@@ -18,7 +18,7 @@ MSc Data Science graduate (Distinction) with a Physics background, specializing 
 | **Customer Churn Prediction** | Deployed ML app predicting customer churn (0.88 ROC-AUC, 89% recall); tuned decision threshold for business use | Python, scikit-learn, Streamlit | [View](./01-customer-churn-prediction) |
 | **AI Bias Detection in LLMs** | Audited gendered/geographic bias in GPT & Claude against 1.6M+ reviews and crime data; MSc dissertation, Top 5 Poster Award | Python, SentenceTransformers, BERTopic | [View](./02-llm-bias-fairness-audit) |
 | **E-commerce Data Quality Pipeline** | 14-rule validation system raising a 371K-row dataset's health score from 22 to 91 | Python | [View](./03-ecommerce-data-quality-pipeline) |
-| **Retail Sales Optimization Analysis** | Three linked Tableau dashboards analyzing €84.5K in revenue, surfacing seasonality and margin insights | Tableau | [View](./retail-sales-optimization) |
+| **Retail Sales Optimization Analysis** | Three linked Tableau dashboards analyzing €84.5K in revenue, surfacing seasonality and margin insights | Tableau | [View](./05-retail-sales-optimization) |
 | **E-Commerce SQL Analysis** | Normalized PostgreSQL schema; CTEs and window functions for customer/sales analysis | PostgreSQL, SQL | [View](./04-ecommerce-sql-analysis) |
 
 ## Portfolio at a glance
