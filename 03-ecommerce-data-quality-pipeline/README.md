@@ -1,4 +1,4 @@
-# Data Quality Pipeline
+# Data Quality Pipeline (E-commerce)
 
 An automated 4-phase data quality pipeline built in Python that profiles, validates, cleans, and reports on raw datasets, delivering analysis-ready data and a branded PDF audit report in a single command.
 
