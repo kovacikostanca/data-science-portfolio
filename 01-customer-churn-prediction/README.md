@@ -13,7 +13,7 @@ An end-to-end machine learning system that predicts which telecom customers are 
 
 ## Overview
 
-Customer churn is one of the most expensive problems in telecom. Winning a new customer costs 5 to 7 times more than keeping an existing one, so telcos need to spot at-risk customers before they leave.
+Customer churn is one of the most expensive problems in telecom. Winning a new customer costs 5 to 7 times more than keeping an existing one, so telecom need to spot at-risk customers before they leave.
 
 This project answers one question:
 
