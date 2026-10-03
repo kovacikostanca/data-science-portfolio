@@ -2,7 +2,9 @@
 
 An automated 4-phase data quality pipeline built in Python that profiles, validates, cleans, and reports on raw datasets, delivering analysis-ready data and a branded PDF audit report in a single command.
 
-Two versions are included: a **production-style modular pipeline** and an **exploratory Jupyter Notebook** with full visualizations.
+Two versions are included: 
+- a **production-style modular pipeline** and
+- an **exploratory Jupyter Notebook** with full visualizations.
 
 Built by [GrowInData](https://growindata.com) as part of a freelance data consultancy portfolio.
 
