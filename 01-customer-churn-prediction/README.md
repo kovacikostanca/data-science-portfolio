@@ -2,7 +2,7 @@
 
 An end-to-end machine learning system that predicts which telecom customers are about to leave, explains why, and recommends a retention action. Trained on 7,043 real customers and deployed as a live web app, not just a notebook.
 
-**Live demo:** https://datascienceportfolio-customer-churn-engine.streamlit.app/
+**Live demo:** [https://datascienceportfolio-customer-churn-engine.streamlit.app/](https://data-science-portfolio-churn-prediction.streamlit.app/)
 
 
 | ROC-AUC | Recall on churners | Tuned threshold | Est. revenue protected per cycle |
