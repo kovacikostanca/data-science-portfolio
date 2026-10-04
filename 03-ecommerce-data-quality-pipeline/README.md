@@ -101,7 +101,7 @@ The Jupyter notebook walks through the same four phases with charts and written 
 ```
 03-ecommerce-data-quality-pipeline/
 ├── data/
-│   └── raw/                        <- Place raw CSV files here
+│   └── raw/                        <- Raw CSV files here
 ├── output/
 │   ├── clean/                      <- Cleaned dataset saved here
 │   └── reports/                    <- PDF report saved here
