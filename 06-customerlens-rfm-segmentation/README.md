@@ -521,4 +521,4 @@ Re-export the table from pgAdmin with the same file name into the same folder, t
 ## 10. Contact
 
 **Kostanca** · MSc Data Science (Distinction), BSc Physics · [GrowInData](https://growindata.com)
-[LinkedIn / email: add yours here]
+[LinkedIn](https://www.linkedin.com/in/kostanca-kovaci)
