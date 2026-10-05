@@ -1,4 +1,4 @@
-# CustomerLens: Business Insights and Recommendations
+# Customer Segmentation & Retention Analytics: Business Insights and Recommendations
 
 Based on 93,357 customers with at least one delivered order on the Olist marketplace. All amounts are in Brazilian reais (R$). Source: `customer_rfm_final` and the CustomerLens Power BI dashboard.
 
