@@ -1,4 +1,4 @@
-# CustomerLens: RFM Customer Intelligence on the Olist Marketplace
+# Customer Segmentation & Retention Analytics (RFM on Olist Marketplace)
 
 > An end-to-end customer segmentation project: a validated **PostgreSQL** RFM engine (Recency, Frequency, Monetary) feeding a 3-page **Power BI** dashboard that turns 93,357 marketplace customers into 7 actionable segments.
 
