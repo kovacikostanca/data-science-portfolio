@@ -3,8 +3,11 @@
 > An end-to-end customer segmentation project: a validated **PostgreSQL** RFM engine (Recency, Frequency, Monetary) feeding a 3-page **Power BI** dashboard that turns 93,357 marketplace customers into 7 actionable segments.
 
 **Author:** Kostanca · Data Scientist · [Portfolio](https://kostancakovaci.com)
+
 **Stack:** PostgreSQL · pgAdmin · SQL (CTEs, window functions, `NTILE`, `DISTINCT ON`) · Power BI · Power Query (M) · DAX
+
 **Dataset:** [Olist Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle). All amounts are in Brazilian reais (R$).
+
 
 **Repository contents**
 
