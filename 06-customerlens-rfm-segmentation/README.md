@@ -426,7 +426,17 @@ Lessons from loading: `Columns=12` must match the file (an old `Columns=8` hid t
 2. **RFM Segmentation:** average recency, frequency and monetary cards, an RFM scatter plot, the segment summary table, and the R, F and M score distributions.
 3. **Customer Explorer and Action Center:** filters (segment, R, F, M scores), a customer detail table, a selected-customer card, and an action table with the business meaning and recommended action for each segment.
 
-[../images/executive_overview.png][../images/rfm_segmentation.png][../images/customer_explorer.png]
+### Dashboard preview
+
+### 1. Executive Overview
+![Executive Overview](images/executive-overview.png)
+
+### 2. RFM Segmentation
+![RFM Segmentation](images/rfm-segmentation.png)
+
+### 3. Customer Explorer and Action Center
+![Customer Explorer and Action Center](images/customer-explorer.png)
+
 
 ### 6.3 DAX measures for the Key Insights box
 
