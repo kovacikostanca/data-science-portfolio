@@ -429,13 +429,13 @@ Lessons from loading: `Columns=12` must match the file (an old `Columns=8` hid t
 ### Dashboard preview
 
 ### 1. Executive Overview
-![Executive Overview](images/executive-overview.png)
+![Executive Overview](images/executive_overview.png)
 
 ### 2. RFM Segmentation
-![RFM Segmentation](images/rfm-segmentation.png)
+![RFM Segmentation](images/rfm_segmentation.png)
 
 ### 3. Customer Explorer and Action Center
-![Customer Explorer and Action Center](images/customer-explorer.png)
+![Customer Explorer and Action Center](images/customer_explorer.png)
 
 
 ### 6.3 DAX measures for the Key Insights box
